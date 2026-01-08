@@ -137,7 +137,7 @@ int main(void) {
 ```
 
 ### Результаты работы программы 
-
+https://github.com/amaliaberdukova11-09/Lab--4/blob/124c3be569ee619a72a54c1f9917bf6f249bf680/2026-01-08_20-07-02.png
 ---
 
 ### Информация о студенте  
